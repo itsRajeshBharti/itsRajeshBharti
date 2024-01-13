@@ -13,7 +13,7 @@
 <h3 align="left">Connect Me:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=instagram"/>
-    <img src="https://skillicons.dev/icons?i=twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" href="https://github.com/CodeWithPiece/Online-Shopping"/>
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </p>
 <h3 align="left">Tech Stack</h3>
