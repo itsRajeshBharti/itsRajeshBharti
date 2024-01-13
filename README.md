@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
 - 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece?tab=repositories" />CodeWithPiece
+- 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece?tab=repositories" />itsRajeshBharti
 - 💬 Ask me about **Android, Node Js and Java**
-- 📫 How to reach me **ignirmal12@gmail.com**
+- 📫 How to reach me **rajeshbharti.rtcit@gmail.com**
 
 <h3 align="left">Connect Me:</h3>
 <p align="left">
