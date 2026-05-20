@@ -1,10 +1,13 @@
 ![bannerone](https://github.com/itsRajeshBharti/itsRajeshBharti/assets/147328742/c3008c8c-d991-43e4-9cda-2d833b555d72)
-<h1 align="left">✨ Full Stack Developer | Android Developer | Web Developer</h1>
-<h3 align="left">With 4 years of hands-on development experience, I create high-performance mobile and web applications that combine functionality with elegant design. Skilled in Android development, frontend & backend technologies, I’m passionate about delivering digital solutions that make a real impact. Let’s create something amazing together! 💻📱</h3>
-
+<h1 align="left">Hi 👋, I'm Rajesh Bharti</h1>
+<h3 align="left">💻 Full Stack Developer with 4+ years of experience in Android & Web Development.
+🚀 Passionate about building scalable, user-friendly, and modern applications.
+📱 Skilled in Android Development, Java, ASP.NET, Web Technologies & Backend Development.</h3>
+🌱 Always learning new technologies and improving development skills.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
 
-- 🔭 I’m currently working on <a href="https://jsac.jharkhand.gov.in/" /> JSAC   👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
+- 🔭 I’m currently working on <a href="https://jsac.jharkhand.gov.in/" /> JSAC
+- 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
 - 🌱 I’m currently learning **FULL Stack(.net)**
 - 💬 Ask me about **Android, Node Js and Java**
 - 📫 How to reach me **rajeshbharti.rtcit@gmail.com**
