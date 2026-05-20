@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on <a href="https://jsac.jharkhand.gov.in/" /> JSAC
 - 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
 - 🌱 I’m currently learning **FULL Stack(.net)**
-- 💬 Ask me about **Android, Node Js and Java**
+- 💬 Ask me about **Android Development, Node.js, Java, and Full Stack Development(.net)**
 - 📫 How to reach me **rajeshbharti.rtcit@gmail.com**
 
 <h3 align="left">Connect Me:</h3>
