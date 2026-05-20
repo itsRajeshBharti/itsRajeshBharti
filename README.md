@@ -3,9 +3,10 @@
 <h3 align="left">💻 Full Stack Developer with 4+ years of experience in Android & Web Development.
 🚀 Passionate about building scalable, user-friendly, and modern applications.
 📱 Skilled in Android Development, Java, ASP.NET, Web Technologies & Backend Development.</h3>
-🌱 Always learning new technologies and improving development skills.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithpiece&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpiece" /> </p>
 
+<h3>
+🌱 Always learning new technologies and improving development skills.</h3>
 - 🔭 I’m currently working on <a href="https://jsac.jharkhand.gov.in/" /> JSAC
 - 👨‍💻 All of my projects are available at <a href="https://github.com/CodeWithPiece/Online-Shopping" /> Online Shopping App
 - 🌱 I’m currently learning **FULL Stack(.net)**
